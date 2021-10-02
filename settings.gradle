@@ -1,0 +1,5 @@
+include ':app'
+include ':login'
+include ':library'
+include ':common'
+rootProject.name = "ModularStudy"
